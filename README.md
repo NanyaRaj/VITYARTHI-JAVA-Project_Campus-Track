@@ -69,6 +69,3 @@ Testing: I tested the project by running the program and checking its main featu
 12) Running the background reporter
 
 The tested features worked as expected and the desired output was displayed on the terminal window.
-VIT Bhopal University
-
-**Project Type:** Individual Project
